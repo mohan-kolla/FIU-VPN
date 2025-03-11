@@ -188,5 +188,5 @@ During installation:
 ---
 
 ## 🎉 Congratulations!
-Your Skyhole VPN is now set up with Pi-hole and Unbound, providing a secure, private, and ad-free browsing experience! 🚀
+Your Skyhole VPN is now set up with Pi-hole and Unbound, providing a secure, private, and ad-free (mostly, still recommend using another adblocker for even better security) browsing experience! 🚀
 
